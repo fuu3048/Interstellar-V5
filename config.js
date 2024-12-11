@@ -10,4 +10,4 @@ const config = {
   },
 };
 
-export default config;
+export default config;pnpm i && pnpm start
